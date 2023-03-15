@@ -2,4 +2,4 @@
 
 bundle exec rake db:seed
 
-sleep infinity
+tail -f /dev/null
