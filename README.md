@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <h1>Forem 🌱</h1>
+  <h1>Forem - Uffizzi🌱</h1>
   <strong>For Empowering Community</strong>
 </div>
 <br>
